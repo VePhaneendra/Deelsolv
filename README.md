@@ -13,11 +13,11 @@ In the project directory, you can run:
 
 ### Web Technologies Used
 
-React : I consider this because it is easy to implement compared to Next.js , create UI and it offer benefits of resuable amd attribute based archecture.
+React. and java script : I consider this because it is easy to implement compared to Next.js , create UI and it offer benefits of resuable amd attribute based archecture.
 
 PokeAPI : This api give free pokemon complete information and some staticial data about the pokemon.
 
-CSS and HTML : Both used to building web pages and one for creating web page and second one for styling the web page.
+ HTML and CSS : Both used to building web pages and one for creating web page and second one for styling the web page.
 
 The Axios : It is used to made requests to application programm interface(API).
 
