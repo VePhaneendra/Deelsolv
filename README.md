@@ -1,33 +1,46 @@
-# Getting Started with Create React App
+# Deepsolv Forntend Assignment about Pokemon App
+ 
+This web application serves as a pokedex allow user to find for and know information about various pokemon, access infromation about them, and put it perferred pokemon.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+## Implemented Features
+ find Pokemon : search pokemon by name.
+ Classification of Pokemon : Filter pokemon by type.
+ Complete information of a specific pokemon : complete staticial information of a specific information.
+ Selection of favorite pokemon : store all favorite pokemon in specific storage.
+ 
 
 In the project directory, you can run:
 
-### `npm start`
+### Web Technologies Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+React : I consider this because it is easy to implement compared to Next.js , create UI and it offer benefits of resuable amd attribute based archecture.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+PokeAPI : This api give free pokemon complete information and some staticial data about the pokemon.
 
-### `npm test`
+CSS and HTML : Both used to building web pages and one for creating web page and second one for styling the web page.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The Axios : It is used to made requests to application programm interface(API).
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Install and Run process commands
+ First Step :(open terminal and Clone the repository) :
+ 
+          git clone https://github.com/VePhaneendra/Deelsolv.git 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+second step : entre the location of the project:
+       
+      cd tilte(project)
+Third step : install requried tools:
+
+    npm install
+Fourth Step : Connect to server : 
+
+    npm start
+
+Now,open localhost in you pc, there you can find react web application.
+
+
 
 ### `npm run eject`
 
